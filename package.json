@@ -1,0 +1,18 @@
+{
+	"name": "darmok-lang",
+	"description": "Tamarian programming language",
+	"author": {
+		"name": "Kevin Selwyn",
+		"email": "kevinselwyn@gmail.com",
+		"url": "http://kevinselwyn.com/"
+	},
+	"version": "1.0.1",
+	"main": "./darmok.js",
+	"bin": {
+		"darmok": "./bin/darmok"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:kevinselwyn/darmok.git"
+	}
+}

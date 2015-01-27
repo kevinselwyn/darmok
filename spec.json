@@ -1,0 +1,19 @@
+{
+    "Temba, his arms wide": "#include <%s.h>",
+    "Temba, at rest": "#include \"%s.h\"",
+    "Sokath, his eyes uncovered": "#define %s",
+    "Darmok on the ocean": "int main(%s) {",
+    "Darmok and Jalad at Tanagra": "return %s;",
+    "Darmok and Jalad on the ocean": "}",
+    "Kira at Bashi": "printf(%s);",
+    "The river Termarc in winter": "}",
+    "Uzani, his army with fists open": "if (%s) {",
+    "Uzani, his army with fists closed": "} else {",
+    "Mirab, with sails unfurled": "for (%s) {",
+    "Kiteo, his eyes closed": "while (%s) {",
+    "Chenza at court": "switch (%s) {",
+    "the court of silence": "}",
+    "Shaka": "case %s:",
+    "Zinda": "default:",
+    "when the walls fell": "break;"
+}

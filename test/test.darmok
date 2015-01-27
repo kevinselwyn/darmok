@@ -1,0 +1,40 @@
+Temba, his arms wide stdio
+Temba, his arms wide stdlib
+
+Sokath, his eyes uncovered hello "Hello, World!"
+Sokath, his eyes uncovered goodbye "Goodbye, World!"
+
+Darmok on the ocean int argc, char *argv[]
+	int test = 0, i = 0, l = 0;
+
+	Uzani, his army with fists open argc < 2
+		Kira at Bashi "Usage: test <num>\n"
+		Darmok and Jalad at Tanagra 1
+	The river Termarc in winter
+
+	test = atoi(argv[1]);
+
+	Uzani, his army with fists open test == 0
+		Kira at Bashi "%s\n", hello
+	Uzani, his army with fists closed
+		Kira at Bashi "%s\n", goodbye
+	The river Termarc in winter
+
+	Mirab, with sails unfurled i = 0, l = 10; i < l; i++
+		Chenza at court i
+		Shaka 5
+			Kira at Bashi "Five\n"
+			when the walls fell
+		Zinda
+			Kira at Bashi "%d\n", i
+			when the walls fell
+		the court of silence
+	The river Termarc in winter
+
+	Kiteo, his eyes closed i >= 0
+		Kira at Bashi "%d\n", i
+		i--;
+	The river Termarc in winter
+
+	Darmok and Jalad at Tanagra 0
+Darmok and Jalad on the ocean
