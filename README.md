@@ -1,26 +1,26 @@
-#darmok
+# darmok
 
 Tamarian programming language
 
-##Explanation
+## Explanation
 
 The Tamarians (or Children of Tama) are an alien race that was featured in the 102nd episode of Star Trek: The Next Generation. They communicate exclusively through metaphor based on their own culture's lore and history, leading past Starfleet crews and the Enterprise (initially at least) to find their language completely incomprehensible.
 
 Being a technologically advanced, post-warp culture, it stands to reason that the Tamarians would incorporate this same type of metaphorical communication into their programming languages.
 
-##Installation
+## Installation
 
 ```bash
 npm install darmok-lang
 ```
 
-##Usage
+## Usage
 
 ```bash
 Usage: darmok <infile.darmok> [<outfile.c>]
 ```
 
-##Spec
+## Spec
 
 Darmok converts directly into C. Whole lines must be in either Darmok or C. Mixing will cause problems. Darmok lines do not need a semicolon at the end. C lines do (where applicable).
 
@@ -46,7 +46,7 @@ Darmok converts directly into C. Whole lines must be in either Darmok or C. Mixi
 | `Zinda`                             | default:        |                       |
 | `when the walls fell`               | break           |                       |
 
-##Example
+## Example
 
 Darmok:
 
