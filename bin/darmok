@@ -1,0 +1,24 @@
+#!/usr/bin/env node
+/*globals console, process, require*/
+
+var darmok = require('../');
+
+(function () {
+	'use strict';
+
+	var infile = null,
+		outfile = null;
+
+	if (process.argv.length < 3) {
+		console.log('Usage: darmok <infile.darmok> [<outfile.c>]');
+		process.exit(1);
+	}
+
+	infile = process.argv[2];
+
+	if (process.argv.length > 3) {
+		outfile = process.argv[3];
+	}
+
+	darmok.compile(infile, outfile);
+}());
